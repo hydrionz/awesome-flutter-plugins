@@ -2,21 +2,17 @@
 
 🔥🔥🔥 收集好用的 Flutter 插件以便更高效的开发
 
-## 收录 632 个
+## 收录
 
-### 01-01
+### 07-24
 
-- [flutter_dynamic_launcher_icon](https://pub.dev/packages/flutter_dynamic_launcher_icon) - 动态更改 Android 和 iOS 上的应用程序启动器图标
-- [force_update_helper](https://pub.dev/packages/force_update_helper) - 用于显示可远程控制的强制更新提示的软件包
-- [mcp_dart](https://pub.dev/packages/mcp_dart) - Dart 实现的模型上下文协议 (MCP) SDK。
-- [flutter_earth_globe](https://pub.dev/packages/flutter_earth_globe) - 用纯 Dart 语言编写的交互式、完全可定制的 3D 地球仪小部件
-- [google_mlkit_document_scanner](https://pub.dev/packages/google_mlkit_document_scanner) - Google ML Kit 的文档扫描器插件
-- [flutter_video_caching](https://pub.dev/packages/flutter_video_caching) - 视频缓存功能，可与 video_player 包配合使用
-- [quick_print](https://pub.dev/packages/quick_print) - 用于处理不同平台和设备上的 PDF 打印
-- [spoiler_widget](https://pub.dev/packages/spoiler_widget) - 创建剧透动画，允许您隐藏敏感或剧透内容，直到用户点击或轻触为止
-- [particular](https://pub.dev/packages/particular) - Flutter 粒子系统组件，提升您的应用或游戏视觉效果
-- [local_hero_transform](https://pub.dev/packages/local_hero_transform) - 使用 local hero 动画简化了网格视图和列表视图中项目之间的无缝过渡
-- [flutter_screenshot_blocker](https://pub.dev/packages/flutter_screenshot_blocker) - 可阻止屏幕截图或在截图时显示黑屏
+- [convenient_test](https://pub.dev/packages/convenient_test) - 轻松编写和调试测试，支持完整操作历史、时间旅行、截图、快速重新执行、视频录制、交互和隔离等功能
+- [eventide](https://pub.dev/packages/eventide) - 提供易用的 Flutter 接口，用于访问和修改 iOS 与 Android 设备的原生日历
+- [motor](https://pub.dev/packages/motor) - Flutter 的统一运动系统，在一个 API 下同时支持基于物理的弹簧动画和基于时长的曲线动画
+- [expressive_refresh](https://pub.dev/packages/expressive_refresh) - 采用 Material 3 Expressive 设计系统样式的刷新指示器
+- [adaptive_platform_ui](https://pub.dev/packages/adaptive_platform_ui) - Flutter 自适应平台小部件，在 iOS 26 及以上版本自动渲染原生液态玻璃设计，在旧版 iOS 和 Android 上分别使用 Cupertino 与 Material Design
+- [orient_ui](https://pub.dev/packages/orient_ui) - 适用于 Flutter 的主题和组件，可与 Material、Cupertino 配合使用，也可独立使用
+- [vyuh_node_flow](https://pub.dev/packages/vyuh_node_flow) - 灵活、高性能的 Flutter 节点式流程编辑器，用于构建可视化编程界面、工作流编辑器、图表和数据管道
 
 ## 目录
 
@@ -72,6 +68,7 @@
 | [chalkdart](https://pub.dev/packages/chalkdart)                                               | Dart 的控制台文本着色和样式库                                                                                                        | 2025-04-16 | 63    |
 | [flutter_gen](https://pub.dev/packages/flutter_gen)                                           | 用于您的资产、字体、颜色等的 Flutter 代码生成器                                                                                      | 2025-09-21 | 1.71k |
 | [force_update_helper](https://pub.dev/packages/force_update_helper)                           | 用于显示可远程控制的强制更新提示的软件包                                                                                             | 2025-11-04 | 107   |
+| [vyuh_node_flow](https://pub.dev/packages/vyuh_node_flow)                                     | 灵活、高性能的 Flutter 节点式流程编辑器，用于构建可视化编程界面、工作流编辑器、图表和数据管道                                        | 暂无       | 暂无  |
 
 > ### <a id="设备">设备</a>
 
@@ -196,6 +193,7 @@
 | [flutter_dynamic_launcher_icon](https://pub.dev/packages/flutter_dynamic_launcher_icon) | 动态更改 Android 和 iOS 上的应用程序启动器图标                                                                                  | 2025-10-07 | 13    |
 | [quick_print](https://pub.dev/packages/quick_print)                                     | 用于处理不同平台和设备上的 PDF 打印                                                                                             | 2025-11-02 | 40    |
 | [flutter_screenshot_blocker](https://pub.dev/packages/flutter_screenshot_blocker)       | 可阻止屏幕截图或在截图时显示黑屏                                                                                                | 2025-08-20 | 4     |
+| [eventide](https://pub.dev/packages/eventide)                                           | 提供易用的 Flutter 接口，用于访问和修改 iOS 与 Android 设备的原生日历                                                           | 暂无       | 暂无  |
 
 > ### <a id="项目">项目</a>
 
@@ -243,6 +241,7 @@
 | [device_preview_plus](https://pub.dev/packages/device_preview_plus)               | 了解你的 Flutter 应用在其他设备上的外观和性能                                                                                         | 2025-12-25 | 58    |
 | [logarte](https://pub.dev/packages/logarte)                                       | Flutter 应用的强大应用内调试控制台，具有网络检查器、存储监视器和密码保护功能                                                          | 2025-09-11 | 236   |
 | [widgetbook](https://pub.dev/packages/widgetbook)                                 | 用于独立构建微件和屏幕的沙盒                                                                                                          | 2025-11-25 | 727   |
+| [convenient_test](https://pub.dev/packages/convenient_test)                       | 轻松编写和调试测试，支持完整操作历史、时间旅行、截图、快速重新执行、视频录制、交互和隔离等功能                                        | 暂无       | 暂无  |
 
 > ### <a id="列表">列表</a>
 
@@ -270,98 +269,101 @@
 
 > ### <a id="UI">UI / 小部件</a>
 
-| 依赖                                                                                          | 描述                                                                                                                          | 更新时间   | likes |
-| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
-| [pull_down_button](https://pub.dev/packages/pull_down_button)                                 | 尝试将 iOS 14+ 中的弹出按钮和 下拉按钮引入 Flutter                                                                            | 2024-09-30 | 470   |
-| [chat_bottom_container](https://pub.dev/packages/chat_bottom_container)                       | 用于管理聊天页面底部容器的 Flutter 包，可用于实现键盘与其他面板之间的平滑切换                                                 | 2025-07-07 | 76    |
-| [mesh_gradient](https://pub.dev/packages/mesh_gradient)                                       | 创建美丽的流体状网格渐变的小部件                                                                                              | 2024-09-23 | 266   |
-| [shadcn_ui](https://pub.dev/packages/shadcn_ui)                                               | shadcn-ui                                                                                                                     | 2025-12-18 | 829   |
-| [scaled_app](https://pub.dev/packages/scaled_app)                                             | 按比例缩放整个 UI 设计，当您的 UI 设计是固定宽度                                                                              | 2024-05-16 | 84    |
-| [responsive_sizer](https://pub.dev/packages/responsive_sizer)                                 | 通过提供帮助小部件和扩展来帮助实现响应式布局                                                                                  | 2024-03-24 | 589   |
-| [glossy](https://pub.dev/packages/glossy)                                                     | 用于创建时尚的玻璃形态 UI 效果                                                                                                | 2025-01-06 | 115   |
-| [custom_sliding_segmented_control](https://pub.dev/packages/custom_sliding_segmented_control) | 允许您灵活配置用于显示控件的小部件                                                                                            | 2025-01-09 | 221   |
-| [super_cupertino_navigation_bar](https://pub.dev/packages/super_cupertino_navigation_bar)     | 通过可折叠的应用栏、时尚的搜索栏动画和受 iOS 启发的多功能设计                                                                 | 2024-01-16 | 212   |
-| [super_context_menu](https://pub.dev/packages/super_context_menu)                             | 上下文菜单可以无缝过渡到移动设备上的拖放                                                                                      | 2025-06-11 | 271   |
-| [tencent_cloud_chat_uikit](https://pub.dev/packages/tencent_cloud_chat_uikit)                 | 腾讯云聊天强大的聊天 UI 组件库和业务逻辑，创建无缝的应用内聊天模块，带来愉悦的用户体验                                        | 2025-12-04 | 57    |
-| [tdesign_flutter](https://pub.dev/packages/tdesign_flutter)                                   | 腾讯 TDesign UI 组件库，适合在移动项目中使用                                                                                  | 2025-11-14 | 94    |
-| [skeletonizer](https://pub.dev/packages/skeletonizer)                                         | 无需额外的努力即可将已构建的小部件转换为骨架加载器                                                                            | 2025-12-15 | 2.15k |
-| [info_popup](https://pub.dev/packages/info_popup)                                             | 用户显示有关所选小部件                                                                                                        | 2024-11-24 | 160   |
-| [magnifying_glass](https://pub.dev/packages/magnifying_glass)                                 | 具有实时放大镜镜头小部件                                                                                                      | 2024-09-28 | 47    |
-| [appinio_social_share](https://pub.dev/packages/appinio_social_share)                         | 支持将文本、图像、文件和带图像的文本共享到社交媒体                                                                            | 2024-08-01 | 290   |
-| [hue_rotation](https://pub.dev/packages/hue_rotation)                                         | 更改任何具有颜色的小部件的颜色                                                                                                | 2025-11-15 | 28    |
-| [flutter_card_swiper](https://pub.dev/packages/flutter_card_swiper)                           | 类似于 Tinder 的刷卡程序包。它允许您向左、向右、向上和向下滑动，并为每个方向定义您自己的业务逻辑                              | 2025-11-02 | 655   |
-| [easy_stepper](https://pub.dev/packages/easy_stepper)                                         | 完全可定制、美观且易于使用的步进器小部件                                                                                      | 2025-12-31 | 445   |
-| [appflowy_board](https://pub.dev/packages/appflowy_board)                                     | 可自定义和可拖动看板小部件                                                                                                    | 2024-04-24 | 220   |
-| [flutter_pin_code_widget](https://pub.dev/packages/flutter_pin_code_widget)                   | PIN Code wiget 用于通过灵活的设置创建和检查本地 PIN 码                                                                        | 2024-03-29 | 27    |
-| [easy_refresh](https://pub.dev/packages/easy_refresh)                                         | 提供下拉刷新和上拉加载的小部件                                                                                                | 2024-05-14 | 538   |
-| [typewritertext](https://pub.dev/packages/typewritertext)                                     | 简单的打字机文本动画包装器                                                                                                    | 2024-09-14 | 221   |
-| [rounded_background_text](https://pub.dev/packages/rounded_background_text)                   | 用圆角突出显示的文本和文本字段                                                                                                | 2025-03-24 | 99    |
-| [slide_countdown](https://pub.dev/packages/slide_countdown)                                   | 创建简单的幻灯片动画倒数/倒数计时器                                                                                           | 2024-11-25 | 450   |
-| [tab_container](https://pub.dev/packages/tab_container)                                       | 动画和可自定义的选项卡视图小部件                                                                                              | 2024-04-17 | 401   |
-| [tabbed_view](https://pub.dev/packages/tabbed_view)                                           | 经典的桌面样式选项卡组件                                                                                                      | 2025-12-21 | 125   |
-| [animated_toggle_switch](https://pub.dev/packages/animated_toggle_switch)                     | 简单的动画切换开关，用于多种选择。                                                                                            | 2025-04-28 | 954   |
-| [stop_watch_timer](https://pub.dev/packages/stop_watch_timer)                                 | 简单的 CountUp 计时器 / CountDown 计时器。                                                                                    | 2025-04-16 | 330   |
-| [animated_flip_counter](https://pub.dev/packages/animated_flip_counter)                       | 从一个数字翻转到另一个数字的隐式动画小部件                                                                                    | 2024-04-02 | 625   |
-| [glass_kit](https://pub.dev/packages/glass_kit)                                               | 用于在应用程序中实现玻璃态射。                                                                                                | 2025-09-30 | 518   |
-| [feedback](https://pub.dev/packages/feedback)                                                 | 允许用户直接在应用程序中提供交互式反馈。                                                                                      | 2025-07-06 | 1.62k |
-| [system_alert_window](https://pub.dev/packages/system_alert_window)                           | 用于在所有其他应用程序以及回调事件上显示 Truecaller 之类的覆盖窗口。                                                          | 2025-05-02 | 248   |
-| [auth_buttons](https://pub.dev/packages/auth_buttons)                                         | Auth Buttons 是一个 Flutter 小部件库，包括用于与最流行的社交网络（如 Google、Facebook、Apple 和 Twitter）进行身份验证的按钮。 | 2024-06-16 | 195   |
-| [fluent_ui](https://pub.dev/packages/fluent_ui)                                               | 在 Flutter 中实现 Windows UI。基于官方文档。                                                                                  | 2025-09-23 | 3.16k |
-| [flutter_intro](https://pub.dev/packages/flutter_intro)                                       | 为您的 Flutter 项目提供新功能介绍和分步用户指南的更好方法。                                                                   | 2024-10-24 | 589   |
-| [onboarding_overlay](https://pub.dev/packages/onboarding_overlay)                             | 灵活地控制有或没有目标元素的进入。                                                                                            | 2025-10-24 | 368   |
-| [flutter_fortune_wheel](https://pub.dev/packages/flutter_fortune_wheel)                       | 抽奖幸运轮小部件。                                                                                                            | 2024-10-20 | 363   |
-| [in_app_update](https://pub.dev/packages/in_app_update)                                       | Android API 在 Android 上启用应用内更新。                                                                                     | 2025-09-14 | 1.26k |
-| [in_app_review](https://pub.dev/packages/in_app_review)                                       | Flutter 插件，用于在 Android、IOS 和 MacOS 上显示应用内评论/系统评级弹出窗口。                                                | 2025-08-28 | 2.37k |
-| [flutter_glow](https://pub.dev/packages/flutter_glow)                                         | Flutter Glow ui 套件，可帮助您创建和使用发光的小部件。                                                                        | 2024-08-16 | 160   |
-| [readmore](https://pub.dev/packages/readmore)                                                 | 允许动态展开和折叠文本的 Flutter 包。                                                                                         | 2024-03-27 | 1.13k |
-| [smooth_page_indicator](https://pub.dev/packages/smooth_page_indicator)                       | 具有一组内置效果的可定制动画页面指示器。                                                                                      | 2025-12-07 | 4.01k |
-| [flutter_instagram_stories](https://pub.dev/packages/flutter_instagram_stories)               | 显示故事（视频和图像），如 Whatsapp 和 Instagram。                                                                            | 2025-01-09 | 177   |
-| [custom_refresh_indicator](https://pub.dev/packages/custom_refresh_indicator)                 | 可以轻松实现自定义刷新指示器。                                                                                                | 2024-07-18 | 1.01k |
-| [flex_color_picker](https://pub.dev/packages/flex_color_picker)                               | 可定制的 Flutter 自定义颜色选择器。                                                                                           | 2025-11-26 | 592   |
-| [hand_signature](https://pub.dev/packages/hand_signature)                                     | 允许用手指绘制签名的签名板小部件。                                                                                            | 2025-07-06 | 300   |
-| [flutter_advanced_switch](https://pub.dev/packages/flutter_advanced_switch)                   | 高级开关控件为小部件自定义提供了丰富的 API。                                                                                  | 2024-02-26 | 165   |
-| [toggle_switch](https://pub.dev/packages/toggle_switch)                                       | 一个简单的切换开关小部件。                                                                                                    | 2024-03-25 | 1.61k |
-| [flutter_material_pickers](https://pub.dev/packages/flutter_material_pickers)                 | 轻松且一致地显示 material 主题选择器对话框。                                                                                  | 2024-05-20 | 232   |
-| [extended_text](https://pub.dev/packages/extended_text)                                       | 扩展官方文本以快速构建内嵌图像或特殊文本。                                                                                    | 2025-03-21 | 306   |
-| [back_button_interceptor](https://pub.dev/packages/back_button_interceptor)                   | 后退按钮拦截器。可用于在点击 Android 后退按钮时执行操作。                                                                     | 2025-02-10 | 406   |
-| [day_night_time_picker](https://pub.dev/packages/day_night_time_picker)                       | 昼夜时间选择器。带有太阳和月亮资产的美丽昼夜动画。                                                                            | 2024-03-31 | 694   |
-| [flutter_tex](https://pub.dev/packages/flutter_tex)                                           | 用于渲染基于 LaTeX、TeX 和 MathML 并支持 HTML 和 JavaScript 的数学/数学、物理和化学、统计方程和表达式。                       | 2025-07-15 | 338   |
-| [floating_bubbles](https://pub.dev/packages/floating_bubbles)                                 | 用于将前景上的浮动气泡添加到任何 Flutter 小部件的 Flutter 包。                                                                | 2024-01-29 | 86    |
-| [vertical_weight_slider](https://pub.dev/packages/vertical_weight_slider)                     | 提供易于使用且可滚动的垂直重量滑块。                                                                                          | 2024-03-20 | 77    |
-| [story_view](https://pub.dev/packages/story_view)                                             | 像 Whatsapp 和 Instagram 一样显示故事。                                                                                       | 2025-06-28 | 811   |
-| [pinput](https://pub.dev/packages/pinput)                                                     | 密码输入 (OTP) 文本字段，支持自定义数字键盘。密码、密码、验证码、安全、优惠券、Wowcher、2FA、两步验证、双因素身份验证。       | 2025-11-25 | 3.39k |
-| [tutorial_coach_mark](https://pub.dev/packages/tutorial_coach_mark)                           | 帮助您以美观、简单和可定制的方式展示您的应用程序及其功能的指南。                                                              | 2025-10-17 | 1.53k |
-| [country_code_picker](https://pub.dev/packages/country_code_picker)                           | 用于显示国家/地区代码选择器。                                                                                                 | 2025-10-08 | 920   |
-| [introduction_screen](https://pub.dev/packages/introduction_screen)                           | 应用程序的介绍/入门页。                                                                                                       | 2025-08-27 | 2.92k |
-| [flutter_form_builder](https://pub.dev/packages/flutter_form_builder)                         | 通过删除样板代码，重用验证，对更改做出反应并收集最终用户输入来帮助在 Flutter 中创建表单。                                     | 2025-08-15 | 2.77k |
-| [flutter_platform_widgets](https://pub.dev/packages/flutter_platform_widgets)                 | 通过单个小部件简化了 Material 和 Cupertino 小部件的使用。                                                                     | 2025-05-28 | 1.31k |
-| [velocity_x](https://pub.dev/packages/velocity_x)                                             | 开源极简 UI 框架，可快速构建定制设计。                                                                                        | 2025-02-23 | 1.46k |
-| [getwidget](https://pub.dev/packages/getwidget)                                               | 带有预构建的 1000 多个 UI 组件。它使开发更快，更愉快。                                                                        | 2025-09-09 | 2.54k |
-| [chat_bubbles](https://pub.dev/packages/chat_bubbles)                                         | 聊天气泡小部件，类似于 Whatsapp 和更多形状。易于使用和实现聊天气泡。                                                          | 2025-01-05 | 554   |
-| [dotted_line](https://pub.dev/packages/dotted_line)                                           | 使用 Flutter 绘制虚线。您可以绘制一条漂亮的虚线。                                                                             | 2024-10-17 | 326   |
-| [scratcher](https://pub.dev/packages/scratcher)                                               | 刮刮卡小部件。                                                                                                                | 2023-11-24 | 493   |
-| [flutter_simple_calculator](https://pub.dev/packages/flutter_simple_calculator)               | 提供简单的计算器。                                                                                                            | 2025-02-09 | 126   |
-| [flutter_spinkit](https://pub.dev/packages/flutter_spinkit)                                   | 随时间变化而变化的加载指示器集合。                                                                                            | 2025-08-11 | 4.59k |
-| [dough](https://pub.dev/packages/dough)                                                       | 创建自定义的面团小部件以实现自定义的挤压效果。                                                                                | 2024-01-27 | 444   |
-| [syncfusion_flutter_sliders](https://pub.dev/packages/syncfusion_flutter_sliders)             | 用于创建高度可定制且 UI 丰富的滑块、范围滑块和范围选择器小部件。                                                              | 2025-12-30 | 988   |
-| [flutter_typeahead](https://pub.dev/packages/flutter_typeahead)                               | 高度可定制的预先输入（自动完成）文本输入字段。                                                                                | 2024-02-08 | 2.12k |
-| [animated_analog_clock](https://pub.dev/packages/animated_analog_clock)                       | 适用于 Flutter 应用程序的可定制动画模拟时钟小部件                                                                             | 2025-10-03 | 14    |
-| [text_gradiate](https://pub.dev/packages/text_gradiate)                                       | 用于轻松创建渐变文本的 Flutter 包                                                                                             | 2024-04-23 | 56    |
-| [rating_and_feedback_collector](https://pub.dev/packages/rating_and_feedback_collector)       | 可定制的评级栏，带有表情符号、图标、带有半/满评级的自定义图像和动态反馈警报                                                   | 2024-07-26 | 37    |
-| [moon_design](https://pub.dev/packages/moon_design)                                           | Moon 设计系统。一组遵循 Moon 设计系统的连贯、可主题化且可扩展的小部件                                                         | 2025-01-23 | 93    |
-| [forui](https://pub.dev/packages/forui)                                                       | 它提供了一组受 Shadcn/ui 很大启发的简约小部件                                                                                 | 2025-12-20 | 324   |
-| [animated_hint_textfield](https://pub.dev/packages/animated_hint_textfield)                   | 为文本字段提示/标签文本添加动画，添加动态和引人注目的过渡以增强用户体验                                                       | 2025-09-01 | 98    |
-| [soft_edge_blur](https://pub.dev/packages/soft_edge_blur)                                     | 对其子小部件的一个或多个边缘应用柔和渐进模糊效果                                                                              | 2024-09-28 | 221   |
-| [material_dialogs](https://pub.dev/packages/material_dialogs)                                 | 创建动画、简单、时尚的 Material Dialogs                                                                                       | 2024-07-29 | 358   |
-| [shadcn_flutter](https://pub.dev/packages/shadcn_flutter)                                     | Shadcn/UI 设计精美的组件现已可用于 Flutter                                                                                    | 2025-11-08 | 392   |
-| [flutter_story_presenter](https://pub.dev/packages/flutter_story_presenter)                   | 可将视频、图像和文本以故事形式显示                                                                                            | 2025-08-25 | 125   |
-| [u_credit_card](https://pub.dev/packages/u_credit_card)                                       | 易于使用漂亮的卡片 UI Flutter 包                                                                                              | 2024-10-26 | 72    |
-| [wizard_stepper](https://pub.dev/packages/wizard_stepper)                                     | 简单、可自定义且易于使用的 Flutter 向导步进小部件                                                                             | 2025-02-18 | 50    |
-| [textuality](https://pub.dev/packages/textuality)                                             | 它通过渐变、描边、霓虹灯、阴影效果等高级样式选项增强了 Text 小部件                                                            | 2025-01-03 | 39    |
-| [omjo_captcha](https://pub.dev/packages/omjo_captcha)                                         | 可自定义的 Flutter 文本验证码小部件，带有随机的彩色字符和线条。无需后端                                                       | 2025-07-18 | 2     |
-| [progressive_blur](https://pub.dev/packages/progressive_blur)                                 | Flutter 中的渐进式模糊实现                                                                                                    | 2025-06-10 | 49    |
-| [liquid_glass_renderer](https://pub.dev/packages/liquid_glass_renderer)                       | Flutter 中液体玻璃效果的原始渲染器                                                                                            | 2025-11-13 | 777   |
-| [flutter_earth_globe](https://pub.dev/packages/flutter_earth_globe)                           | 用纯 Dart 语言编写的交互式、完全可定制的 3D 地球仪小部件                                                                      | 2025-12-11 | 67    |
+| 依赖                                                                                          | 描述                                                                                                                                  | 更新时间   | likes |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
+| [pull_down_button](https://pub.dev/packages/pull_down_button)                                 | 尝试将 iOS 14+ 中的弹出按钮和 下拉按钮引入 Flutter                                                                                    | 2024-09-30 | 470   |
+| [chat_bottom_container](https://pub.dev/packages/chat_bottom_container)                       | 用于管理聊天页面底部容器的 Flutter 包，可用于实现键盘与其他面板之间的平滑切换                                                         | 2025-07-07 | 76    |
+| [mesh_gradient](https://pub.dev/packages/mesh_gradient)                                       | 创建美丽的流体状网格渐变的小部件                                                                                                      | 2024-09-23 | 266   |
+| [shadcn_ui](https://pub.dev/packages/shadcn_ui)                                               | shadcn-ui                                                                                                                             | 2025-12-18 | 829   |
+| [scaled_app](https://pub.dev/packages/scaled_app)                                             | 按比例缩放整个 UI 设计，当您的 UI 设计是固定宽度                                                                                      | 2024-05-16 | 84    |
+| [responsive_sizer](https://pub.dev/packages/responsive_sizer)                                 | 通过提供帮助小部件和扩展来帮助实现响应式布局                                                                                          | 2024-03-24 | 589   |
+| [glossy](https://pub.dev/packages/glossy)                                                     | 用于创建时尚的玻璃形态 UI 效果                                                                                                        | 2025-01-06 | 115   |
+| [custom_sliding_segmented_control](https://pub.dev/packages/custom_sliding_segmented_control) | 允许您灵活配置用于显示控件的小部件                                                                                                    | 2025-01-09 | 221   |
+| [super_cupertino_navigation_bar](https://pub.dev/packages/super_cupertino_navigation_bar)     | 通过可折叠的应用栏、时尚的搜索栏动画和受 iOS 启发的多功能设计                                                                         | 2024-01-16 | 212   |
+| [super_context_menu](https://pub.dev/packages/super_context_menu)                             | 上下文菜单可以无缝过渡到移动设备上的拖放                                                                                              | 2025-06-11 | 271   |
+| [tencent_cloud_chat_uikit](https://pub.dev/packages/tencent_cloud_chat_uikit)                 | 腾讯云聊天强大的聊天 UI 组件库和业务逻辑，创建无缝的应用内聊天模块，带来愉悦的用户体验                                                | 2025-12-04 | 57    |
+| [tdesign_flutter](https://pub.dev/packages/tdesign_flutter)                                   | 腾讯 TDesign UI 组件库，适合在移动项目中使用                                                                                          | 2025-11-14 | 94    |
+| [skeletonizer](https://pub.dev/packages/skeletonizer)                                         | 无需额外的努力即可将已构建的小部件转换为骨架加载器                                                                                    | 2025-12-15 | 2.15k |
+| [info_popup](https://pub.dev/packages/info_popup)                                             | 用户显示有关所选小部件                                                                                                                | 2024-11-24 | 160   |
+| [magnifying_glass](https://pub.dev/packages/magnifying_glass)                                 | 具有实时放大镜镜头小部件                                                                                                              | 2024-09-28 | 47    |
+| [appinio_social_share](https://pub.dev/packages/appinio_social_share)                         | 支持将文本、图像、文件和带图像的文本共享到社交媒体                                                                                    | 2024-08-01 | 290   |
+| [hue_rotation](https://pub.dev/packages/hue_rotation)                                         | 更改任何具有颜色的小部件的颜色                                                                                                        | 2025-11-15 | 28    |
+| [flutter_card_swiper](https://pub.dev/packages/flutter_card_swiper)                           | 类似于 Tinder 的刷卡程序包。它允许您向左、向右、向上和向下滑动，并为每个方向定义您自己的业务逻辑                                      | 2025-11-02 | 655   |
+| [easy_stepper](https://pub.dev/packages/easy_stepper)                                         | 完全可定制、美观且易于使用的步进器小部件                                                                                              | 2025-12-31 | 445   |
+| [appflowy_board](https://pub.dev/packages/appflowy_board)                                     | 可自定义和可拖动看板小部件                                                                                                            | 2024-04-24 | 220   |
+| [flutter_pin_code_widget](https://pub.dev/packages/flutter_pin_code_widget)                   | PIN Code wiget 用于通过灵活的设置创建和检查本地 PIN 码                                                                                | 2024-03-29 | 27    |
+| [easy_refresh](https://pub.dev/packages/easy_refresh)                                         | 提供下拉刷新和上拉加载的小部件                                                                                                        | 2024-05-14 | 538   |
+| [typewritertext](https://pub.dev/packages/typewritertext)                                     | 简单的打字机文本动画包装器                                                                                                            | 2024-09-14 | 221   |
+| [rounded_background_text](https://pub.dev/packages/rounded_background_text)                   | 用圆角突出显示的文本和文本字段                                                                                                        | 2025-03-24 | 99    |
+| [slide_countdown](https://pub.dev/packages/slide_countdown)                                   | 创建简单的幻灯片动画倒数/倒数计时器                                                                                                   | 2024-11-25 | 450   |
+| [tab_container](https://pub.dev/packages/tab_container)                                       | 动画和可自定义的选项卡视图小部件                                                                                                      | 2024-04-17 | 401   |
+| [tabbed_view](https://pub.dev/packages/tabbed_view)                                           | 经典的桌面样式选项卡组件                                                                                                              | 2025-12-21 | 125   |
+| [animated_toggle_switch](https://pub.dev/packages/animated_toggle_switch)                     | 简单的动画切换开关，用于多种选择。                                                                                                    | 2025-04-28 | 954   |
+| [stop_watch_timer](https://pub.dev/packages/stop_watch_timer)                                 | 简单的 CountUp 计时器 / CountDown 计时器。                                                                                            | 2025-04-16 | 330   |
+| [animated_flip_counter](https://pub.dev/packages/animated_flip_counter)                       | 从一个数字翻转到另一个数字的隐式动画小部件                                                                                            | 2024-04-02 | 625   |
+| [glass_kit](https://pub.dev/packages/glass_kit)                                               | 用于在应用程序中实现玻璃态射。                                                                                                        | 2025-09-30 | 518   |
+| [feedback](https://pub.dev/packages/feedback)                                                 | 允许用户直接在应用程序中提供交互式反馈。                                                                                              | 2025-07-06 | 1.62k |
+| [system_alert_window](https://pub.dev/packages/system_alert_window)                           | 用于在所有其他应用程序以及回调事件上显示 Truecaller 之类的覆盖窗口。                                                                  | 2025-05-02 | 248   |
+| [auth_buttons](https://pub.dev/packages/auth_buttons)                                         | Auth Buttons 是一个 Flutter 小部件库，包括用于与最流行的社交网络（如 Google、Facebook、Apple 和 Twitter）进行身份验证的按钮。         | 2024-06-16 | 195   |
+| [fluent_ui](https://pub.dev/packages/fluent_ui)                                               | 在 Flutter 中实现 Windows UI。基于官方文档。                                                                                          | 2025-09-23 | 3.16k |
+| [flutter_intro](https://pub.dev/packages/flutter_intro)                                       | 为您的 Flutter 项目提供新功能介绍和分步用户指南的更好方法。                                                                           | 2024-10-24 | 589   |
+| [onboarding_overlay](https://pub.dev/packages/onboarding_overlay)                             | 灵活地控制有或没有目标元素的进入。                                                                                                    | 2025-10-24 | 368   |
+| [flutter_fortune_wheel](https://pub.dev/packages/flutter_fortune_wheel)                       | 抽奖幸运轮小部件。                                                                                                                    | 2024-10-20 | 363   |
+| [in_app_update](https://pub.dev/packages/in_app_update)                                       | Android API 在 Android 上启用应用内更新。                                                                                             | 2025-09-14 | 1.26k |
+| [in_app_review](https://pub.dev/packages/in_app_review)                                       | Flutter 插件，用于在 Android、IOS 和 MacOS 上显示应用内评论/系统评级弹出窗口。                                                        | 2025-08-28 | 2.37k |
+| [flutter_glow](https://pub.dev/packages/flutter_glow)                                         | Flutter Glow ui 套件，可帮助您创建和使用发光的小部件。                                                                                | 2024-08-16 | 160   |
+| [readmore](https://pub.dev/packages/readmore)                                                 | 允许动态展开和折叠文本的 Flutter 包。                                                                                                 | 2024-03-27 | 1.13k |
+| [smooth_page_indicator](https://pub.dev/packages/smooth_page_indicator)                       | 具有一组内置效果的可定制动画页面指示器。                                                                                              | 2025-12-07 | 4.01k |
+| [flutter_instagram_stories](https://pub.dev/packages/flutter_instagram_stories)               | 显示故事（视频和图像），如 Whatsapp 和 Instagram。                                                                                    | 2025-01-09 | 177   |
+| [custom_refresh_indicator](https://pub.dev/packages/custom_refresh_indicator)                 | 可以轻松实现自定义刷新指示器。                                                                                                        | 2024-07-18 | 1.01k |
+| [flex_color_picker](https://pub.dev/packages/flex_color_picker)                               | 可定制的 Flutter 自定义颜色选择器。                                                                                                   | 2025-11-26 | 592   |
+| [hand_signature](https://pub.dev/packages/hand_signature)                                     | 允许用手指绘制签名的签名板小部件。                                                                                                    | 2025-07-06 | 300   |
+| [flutter_advanced_switch](https://pub.dev/packages/flutter_advanced_switch)                   | 高级开关控件为小部件自定义提供了丰富的 API。                                                                                          | 2024-02-26 | 165   |
+| [toggle_switch](https://pub.dev/packages/toggle_switch)                                       | 一个简单的切换开关小部件。                                                                                                            | 2024-03-25 | 1.61k |
+| [flutter_material_pickers](https://pub.dev/packages/flutter_material_pickers)                 | 轻松且一致地显示 material 主题选择器对话框。                                                                                          | 2024-05-20 | 232   |
+| [extended_text](https://pub.dev/packages/extended_text)                                       | 扩展官方文本以快速构建内嵌图像或特殊文本。                                                                                            | 2025-03-21 | 306   |
+| [back_button_interceptor](https://pub.dev/packages/back_button_interceptor)                   | 后退按钮拦截器。可用于在点击 Android 后退按钮时执行操作。                                                                             | 2025-02-10 | 406   |
+| [day_night_time_picker](https://pub.dev/packages/day_night_time_picker)                       | 昼夜时间选择器。带有太阳和月亮资产的美丽昼夜动画。                                                                                    | 2024-03-31 | 694   |
+| [flutter_tex](https://pub.dev/packages/flutter_tex)                                           | 用于渲染基于 LaTeX、TeX 和 MathML 并支持 HTML 和 JavaScript 的数学/数学、物理和化学、统计方程和表达式。                               | 2025-07-15 | 338   |
+| [floating_bubbles](https://pub.dev/packages/floating_bubbles)                                 | 用于将前景上的浮动气泡添加到任何 Flutter 小部件的 Flutter 包。                                                                        | 2024-01-29 | 86    |
+| [vertical_weight_slider](https://pub.dev/packages/vertical_weight_slider)                     | 提供易于使用且可滚动的垂直重量滑块。                                                                                                  | 2024-03-20 | 77    |
+| [story_view](https://pub.dev/packages/story_view)                                             | 像 Whatsapp 和 Instagram 一样显示故事。                                                                                               | 2025-06-28 | 811   |
+| [pinput](https://pub.dev/packages/pinput)                                                     | 密码输入 (OTP) 文本字段，支持自定义数字键盘。密码、密码、验证码、安全、优惠券、Wowcher、2FA、两步验证、双因素身份验证。               | 2025-11-25 | 3.39k |
+| [tutorial_coach_mark](https://pub.dev/packages/tutorial_coach_mark)                           | 帮助您以美观、简单和可定制的方式展示您的应用程序及其功能的指南。                                                                      | 2025-10-17 | 1.53k |
+| [country_code_picker](https://pub.dev/packages/country_code_picker)                           | 用于显示国家/地区代码选择器。                                                                                                         | 2025-10-08 | 920   |
+| [introduction_screen](https://pub.dev/packages/introduction_screen)                           | 应用程序的介绍/入门页。                                                                                                               | 2025-08-27 | 2.92k |
+| [flutter_form_builder](https://pub.dev/packages/flutter_form_builder)                         | 通过删除样板代码，重用验证，对更改做出反应并收集最终用户输入来帮助在 Flutter 中创建表单。                                             | 2025-08-15 | 2.77k |
+| [flutter_platform_widgets](https://pub.dev/packages/flutter_platform_widgets)                 | 通过单个小部件简化了 Material 和 Cupertino 小部件的使用。                                                                             | 2025-05-28 | 1.31k |
+| [velocity_x](https://pub.dev/packages/velocity_x)                                             | 开源极简 UI 框架，可快速构建定制设计。                                                                                                | 2025-02-23 | 1.46k |
+| [getwidget](https://pub.dev/packages/getwidget)                                               | 带有预构建的 1000 多个 UI 组件。它使开发更快，更愉快。                                                                                | 2025-09-09 | 2.54k |
+| [chat_bubbles](https://pub.dev/packages/chat_bubbles)                                         | 聊天气泡小部件，类似于 Whatsapp 和更多形状。易于使用和实现聊天气泡。                                                                  | 2025-01-05 | 554   |
+| [dotted_line](https://pub.dev/packages/dotted_line)                                           | 使用 Flutter 绘制虚线。您可以绘制一条漂亮的虚线。                                                                                     | 2024-10-17 | 326   |
+| [scratcher](https://pub.dev/packages/scratcher)                                               | 刮刮卡小部件。                                                                                                                        | 2023-11-24 | 493   |
+| [flutter_simple_calculator](https://pub.dev/packages/flutter_simple_calculator)               | 提供简单的计算器。                                                                                                                    | 2025-02-09 | 126   |
+| [flutter_spinkit](https://pub.dev/packages/flutter_spinkit)                                   | 随时间变化而变化的加载指示器集合。                                                                                                    | 2025-08-11 | 4.59k |
+| [dough](https://pub.dev/packages/dough)                                                       | 创建自定义的面团小部件以实现自定义的挤压效果。                                                                                        | 2024-01-27 | 444   |
+| [syncfusion_flutter_sliders](https://pub.dev/packages/syncfusion_flutter_sliders)             | 用于创建高度可定制且 UI 丰富的滑块、范围滑块和范围选择器小部件。                                                                      | 2025-12-30 | 988   |
+| [flutter_typeahead](https://pub.dev/packages/flutter_typeahead)                               | 高度可定制的预先输入（自动完成）文本输入字段。                                                                                        | 2024-02-08 | 2.12k |
+| [animated_analog_clock](https://pub.dev/packages/animated_analog_clock)                       | 适用于 Flutter 应用程序的可定制动画模拟时钟小部件                                                                                     | 2025-10-03 | 14    |
+| [text_gradiate](https://pub.dev/packages/text_gradiate)                                       | 用于轻松创建渐变文本的 Flutter 包                                                                                                     | 2024-04-23 | 56    |
+| [rating_and_feedback_collector](https://pub.dev/packages/rating_and_feedback_collector)       | 可定制的评级栏，带有表情符号、图标、带有半/满评级的自定义图像和动态反馈警报                                                           | 2024-07-26 | 37    |
+| [moon_design](https://pub.dev/packages/moon_design)                                           | Moon 设计系统。一组遵循 Moon 设计系统的连贯、可主题化且可扩展的小部件                                                                 | 2025-01-23 | 93    |
+| [forui](https://pub.dev/packages/forui)                                                       | 它提供了一组受 Shadcn/ui 很大启发的简约小部件                                                                                         | 2025-12-20 | 324   |
+| [animated_hint_textfield](https://pub.dev/packages/animated_hint_textfield)                   | 为文本字段提示/标签文本添加动画，添加动态和引人注目的过渡以增强用户体验                                                               | 2025-09-01 | 98    |
+| [soft_edge_blur](https://pub.dev/packages/soft_edge_blur)                                     | 对其子小部件的一个或多个边缘应用柔和渐进模糊效果                                                                                      | 2024-09-28 | 221   |
+| [material_dialogs](https://pub.dev/packages/material_dialogs)                                 | 创建动画、简单、时尚的 Material Dialogs                                                                                               | 2024-07-29 | 358   |
+| [shadcn_flutter](https://pub.dev/packages/shadcn_flutter)                                     | Shadcn/UI 设计精美的组件现已可用于 Flutter                                                                                            | 2025-11-08 | 392   |
+| [flutter_story_presenter](https://pub.dev/packages/flutter_story_presenter)                   | 可将视频、图像和文本以故事形式显示                                                                                                    | 2025-08-25 | 125   |
+| [u_credit_card](https://pub.dev/packages/u_credit_card)                                       | 易于使用漂亮的卡片 UI Flutter 包                                                                                                      | 2024-10-26 | 72    |
+| [wizard_stepper](https://pub.dev/packages/wizard_stepper)                                     | 简单、可自定义且易于使用的 Flutter 向导步进小部件                                                                                     | 2025-02-18 | 50    |
+| [textuality](https://pub.dev/packages/textuality)                                             | 它通过渐变、描边、霓虹灯、阴影效果等高级样式选项增强了 Text 小部件                                                                    | 2025-01-03 | 39    |
+| [omjo_captcha](https://pub.dev/packages/omjo_captcha)                                         | 可自定义的 Flutter 文本验证码小部件，带有随机的彩色字符和线条。无需后端                                                               | 2025-07-18 | 2     |
+| [progressive_blur](https://pub.dev/packages/progressive_blur)                                 | Flutter 中的渐进式模糊实现                                                                                                            | 2025-06-10 | 49    |
+| [liquid_glass_renderer](https://pub.dev/packages/liquid_glass_renderer)                       | Flutter 中液体玻璃效果的原始渲染器                                                                                                    | 2025-11-13 | 777   |
+| [flutter_earth_globe](https://pub.dev/packages/flutter_earth_globe)                           | 用纯 Dart 语言编写的交互式、完全可定制的 3D 地球仪小部件                                                                              | 2025-12-11 | 67    |
+| [expressive_refresh](https://pub.dev/packages/expressive_refresh)                             | 采用 Material 3 Expressive 设计系统样式的刷新指示器                                                                                   | 暂无       | 暂无  |
+| [adaptive_platform_ui](https://pub.dev/packages/adaptive_platform_ui)                         | Flutter 自适应平台小部件，在 iOS 26 及以上版本自动渲染原生液态玻璃设计，在旧版 iOS 和 Android 上分别使用 Cupertino 与 Material Design | 暂无       | 暂无  |
+| [orient_ui](https://pub.dev/packages/orient_ui)                                               | 适用于 Flutter 的主题和组件，可与 Material、Cupertino 配合使用，也可独立使用                                                          | 暂无       | 暂无  |
 
 > ### <a id="音视频">音视频</a>
 
@@ -505,37 +507,38 @@
 
 > ### <a id="动画">动画</a>
 
-| 依赖                                                                  | 描述                                                                               | 更新时间   | likes |
-| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------- | ----- |
-| [rive_animated_icon](https://pub.dev/packages/rive_animated_icon)     | 提供了丰富的动画图标，可以根据您的喜好进行定制                                     | 2025-04-11 | 235   |
-| [newton_particles](https://pub.dev/packages/newton_particles)         | 高度可配置的粒子发射器包，可让您创建迷人的动画，例如下雨、烟雾、爆炸               | 2025-12-27 | 112   |
-| [hyper_effects](https://pub.dev/packages/hyper_effects)               | 几行代码即可创建精美的效果和动画                                                   | 2025-08-15 | 331   |
-| [flutter_tilt](https://pub.dev/packages/flutter_tilt)                 | 为 Flutter 应用倾斜视差悬停效果，支持倾斜、灯光、阴影效果、陀螺仪传感器            | 2025-09-17 | 327   |
-| [path_animation](https://pub.dev/packages/path_animation)             | 轻松地为小部件穿过路径设置动画                                                     | 2025-04-09 | 28    |
-| [zerker](https://pub.dev/packages/zerker)                             | 灵活轻便的 flutter canvas 图形动画库                                               | 2024-08-16 | 92    |
-| [motion](https://pub.dev/packages/motion)                             | 一个精美的小部件，将陀螺仪或基于悬停的运动效果应用于其子级                         | 2024-09-25 | 275   |
-| [siri_wave](https://pub.dev/packages/siri_wave)                       | 在 Siri 中一样创建漂亮的波形                                                       | 2025-02-20 | 145   |
-| [flutter_animate](https://pub.dev/packages/flutter_animate)           | 通过简单、可定制、统一的 API 在 Flutter 中添加精美的动画效果和构建器               | 2024-11-25 | 4.08k |
-| [giphy_get](https://pub.dev/packages/giphy_get)                       | 使用纯飞镖代码从 Giphy 中选择 EMOJI、STICKER 或 GIF，支持安卓、iOS、网页和桌面。   | 2025-09-30 | 131   |
-| [giphy_picker](https://pub.dev/packages/giphy_picker)                 | 允许您从 Giphy 中挑选动画 GIF 图像的插件。                                         | 2024-02-20 | 83    |
-| [rive](https://pub.dev/packages/rive)                                 | 提供运行时功能，用于回放使用 Rive 编辑器构建的动画并与之交互。                     | 2025-12-08 | 1.91k |
-| [page_transition](https://pub.dev/packages/page_transition)           | 漂亮的页面过渡包。                                                                 | 2024-12-27 | 1.56k |
-| [lottie](https://pub.dev/packages/lottie)                             | 在 Flutter 上本地渲染 After Effects 动画。该软件包是 Lottie 播放器的纯 Dart 实现。 | 2025-09-08 | 4.5k  |
-| [simple_animations](https://pub.dev/packages/simple_animations)       | 创建精美的自定义动画。                                                             | 2025-05-03 | 1.99k |
-| [animate_do](https://pub.dev/packages/animate_do)                     | 受 Animate.css 启发的动画包，仅使用 Flutter 动画构建，没有额外的包。               | 2025-02-26 | 4.85k |
-| [animations](https://pub.dev/packages/animations)                     | 轻松集成到任何 Flutter 应用程序中的精美预建动画。                                  | 2025-11-14 | 6.75k |
-| [pretty_animated_text](https://pub.dev/packages/pretty_animated_text) | 创建可自定义的动画文本小部件                                                       | 2024-10-17 | 120   |
-| [flutter_confetti](https://pub.dev/packages/flutter_confetti)         | Flutter 中的五彩纸屑动画，一个功能强大且易于使用的库，可展示令人惊叹的五彩纸屑效果 | 2025-03-14 | 131   |
-| [mesh](https://pub.dev/packages/mesh)                                 | 适用于 Flutter 应用程序的快速且高度可定制的动画网格渐变                            | 2025-05-17 | 168   |
-| [heroine](https://pub.dev/packages/heroine)                           | 流畅的弹簧式 Hero 过渡，可自定义弹跳和持续时间                                     | 2025-12-19 | 282   |
-| [flutter_physics](https://pub.dev/packages/flutter_physics)           | 提供基于物理的动画，包括可定制的弹簧和重力模拟，可用作物理模拟和动画曲线           | 2025-05-30 | 56    |
-| [fly_motion](https://pub.dev/packages/fly_motion)                     | 用于以平滑的曲线运动将小部件从一个位置移动到另一个位置                             | 2025-03-22 | 24    |
-| [particles_network](https://pub.dev/packages/particles_network)       | 高性能、可定制的 Flutter 交互式粒子网络小部件                                      | 2025-11-25 | 49    |
-| [motor](https://pub.dev/packages/motor)                               | Flutter 的统一运动系统 - 一个 API 下的基于物理的弹簧和基于持续时间的曲线           | 2025-12-02 | 187   |
-| [spoiler_widget](https://pub.dev/packages/spoiler_widget)             | 创建剧透动画，允许您隐藏敏感或剧透内容，直到用户点击或轻触为止                     | 2025-12-25 | 85    |
-| [particular](https://pub.dev/packages/particular)                     | Flutter 粒子系统组件，提升您的应用或游戏视觉效果                                   | 2025-02-09 | 43    |
-| [local_hero_transform](https://pub.dev/packages/local_hero_transform) | 使用 local hero 动画简化了网格视图和列表视图中项目之间的无缝过渡                   | 2025-06-26 | 188   |
-| [flutter_ticker](https://pub.dev/packages/flutter_ticker)             | 一个上下滚动变化文本的 Flutter 动画组件                                       | 2026-02-18 | 3     |
+| 依赖                                                                  | 描述                                                                                | 更新时间   | likes |
+| --------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------- | ----- |
+| [rive_animated_icon](https://pub.dev/packages/rive_animated_icon)     | 提供了丰富的动画图标，可以根据您的喜好进行定制                                      | 2025-04-11 | 235   |
+| [newton_particles](https://pub.dev/packages/newton_particles)         | 高度可配置的粒子发射器包，可让您创建迷人的动画，例如下雨、烟雾、爆炸                | 2025-12-27 | 112   |
+| [hyper_effects](https://pub.dev/packages/hyper_effects)               | 几行代码即可创建精美的效果和动画                                                    | 2025-08-15 | 331   |
+| [flutter_tilt](https://pub.dev/packages/flutter_tilt)                 | 为 Flutter 应用倾斜视差悬停效果，支持倾斜、灯光、阴影效果、陀螺仪传感器             | 2025-09-17 | 327   |
+| [path_animation](https://pub.dev/packages/path_animation)             | 轻松地为小部件穿过路径设置动画                                                      | 2025-04-09 | 28    |
+| [zerker](https://pub.dev/packages/zerker)                             | 灵活轻便的 flutter canvas 图形动画库                                                | 2024-08-16 | 92    |
+| [motion](https://pub.dev/packages/motion)                             | 一个精美的小部件，将陀螺仪或基于悬停的运动效果应用于其子级                          | 2024-09-25 | 275   |
+| [siri_wave](https://pub.dev/packages/siri_wave)                       | 在 Siri 中一样创建漂亮的波形                                                        | 2025-02-20 | 145   |
+| [flutter_animate](https://pub.dev/packages/flutter_animate)           | 通过简单、可定制、统一的 API 在 Flutter 中添加精美的动画效果和构建器                | 2024-11-25 | 4.08k |
+| [giphy_get](https://pub.dev/packages/giphy_get)                       | 使用纯飞镖代码从 Giphy 中选择 EMOJI、STICKER 或 GIF，支持安卓、iOS、网页和桌面。    | 2025-09-30 | 131   |
+| [giphy_picker](https://pub.dev/packages/giphy_picker)                 | 允许您从 Giphy 中挑选动画 GIF 图像的插件。                                          | 2024-02-20 | 83    |
+| [rive](https://pub.dev/packages/rive)                                 | 提供运行时功能，用于回放使用 Rive 编辑器构建的动画并与之交互。                      | 2025-12-08 | 1.91k |
+| [page_transition](https://pub.dev/packages/page_transition)           | 漂亮的页面过渡包。                                                                  | 2024-12-27 | 1.56k |
+| [lottie](https://pub.dev/packages/lottie)                             | 在 Flutter 上本地渲染 After Effects 动画。该软件包是 Lottie 播放器的纯 Dart 实现。  | 2025-09-08 | 4.5k  |
+| [simple_animations](https://pub.dev/packages/simple_animations)       | 创建精美的自定义动画。                                                              | 2025-05-03 | 1.99k |
+| [animate_do](https://pub.dev/packages/animate_do)                     | 受 Animate.css 启发的动画包，仅使用 Flutter 动画构建，没有额外的包。                | 2025-02-26 | 4.85k |
+| [animations](https://pub.dev/packages/animations)                     | 轻松集成到任何 Flutter 应用程序中的精美预建动画。                                   | 2025-11-14 | 6.75k |
+| [pretty_animated_text](https://pub.dev/packages/pretty_animated_text) | 创建可自定义的动画文本小部件                                                        | 2024-10-17 | 120   |
+| [flutter_confetti](https://pub.dev/packages/flutter_confetti)         | Flutter 中的五彩纸屑动画，一个功能强大且易于使用的库，可展示令人惊叹的五彩纸屑效果  | 2025-03-14 | 131   |
+| [mesh](https://pub.dev/packages/mesh)                                 | 适用于 Flutter 应用程序的快速且高度可定制的动画网格渐变                             | 2025-05-17 | 168   |
+| [heroine](https://pub.dev/packages/heroine)                           | 流畅的弹簧式 Hero 过渡，可自定义弹跳和持续时间                                      | 2025-12-19 | 282   |
+| [flutter_physics](https://pub.dev/packages/flutter_physics)           | 提供基于物理的动画，包括可定制的弹簧和重力模拟，可用作物理模拟和动画曲线            | 2025-05-30 | 56    |
+| [fly_motion](https://pub.dev/packages/fly_motion)                     | 用于以平滑的曲线运动将小部件从一个位置移动到另一个位置                              | 2025-03-22 | 24    |
+| [particles_network](https://pub.dev/packages/particles_network)       | 高性能、可定制的 Flutter 交互式粒子网络小部件                                       | 2025-11-25 | 49    |
+| [motor](https://pub.dev/packages/motor)                               | Flutter 的统一运动系统 - 一个 API 下的基于物理的弹簧和基于持续时间的曲线            | 2025-12-02 | 187   |
+| [spoiler_widget](https://pub.dev/packages/spoiler_widget)             | 创建剧透动画，允许您隐藏敏感或剧透内容，直到用户点击或轻触为止                      | 2025-12-25 | 85    |
+| [particular](https://pub.dev/packages/particular)                     | Flutter 粒子系统组件，提升您的应用或游戏视觉效果                                    | 2025-02-09 | 43    |
+| [local_hero_transform](https://pub.dev/packages/local_hero_transform) | 使用 local hero 动画简化了网格视图和列表视图中项目之间的无缝过渡                    | 2025-06-26 | 188   |
+| [flutter_ticker](https://pub.dev/packages/flutter_ticker)             | 一个上下滚动变化文本的 Flutter 动画组件                                             | 2026-02-18 | 3     |
+| [motor](https://pub.dev/packages/motor)                               | Flutter 的统一运动系统，在一个 API 下同时支持基于物理的弹簧动画和基于时长的曲线动画 | 暂无       | 暂无  |
 
 > ### <a id="图表">图表</a>
 
